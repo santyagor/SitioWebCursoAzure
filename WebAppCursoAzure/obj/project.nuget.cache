@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8x8kG6uFVWRrAnWw7276IeW6Uw6iBbR2iiwzxbUPzdxyIFmEzO9YkamZHAltOc0cUVspDg0rp8UKUwYYWstEVw==",
+  "dgSpecHash": "I2akzokjhLb6WAz5Ttvxav3zQHD8/GqnhZf1zdBl0Zz8JRdNls5pVSb3TN3dWvDqSLXPAX7Evh14HateQZ7imQ==",
   "success": true,
-  "projectFilePath": "g:\\Cursos\\Platzi\\Azure\\PaaS\\WebAppCursoAzure\\WebAppCursoAzure.csproj",
+  "projectFilePath": "g:\\Cursos\\Platzi\\Azure\\PaaS\\WebApps\\SitioWebCursoAzure\\WebAppCursoAzure\\WebAppCursoAzure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

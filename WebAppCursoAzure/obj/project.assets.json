@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Cursos\\Platzi\\Azure\\PaaS\\WebAppCursoAzure\\WebAppCursoAzure.csproj",
+      "projectUniqueName": "g:\\Cursos\\Platzi\\Azure\\PaaS\\WebApps\\SitioWebCursoAzure\\WebAppCursoAzure\\WebAppCursoAzure.csproj",
       "projectName": "WebAppCursoAzure",
-      "projectPath": "G:\\Cursos\\Platzi\\Azure\\PaaS\\WebAppCursoAzure\\WebAppCursoAzure.csproj",
+      "projectPath": "g:\\Cursos\\Platzi\\Azure\\PaaS\\WebApps\\SitioWebCursoAzure\\WebAppCursoAzure\\WebAppCursoAzure.csproj",
       "packagesPath": "C:\\Users\\santy\\.nuget\\packages\\",
-      "outputPath": "G:\\Cursos\\Platzi\\Azure\\PaaS\\WebAppCursoAzure\\obj\\",
+      "outputPath": "g:\\Cursos\\Platzi\\Azure\\PaaS\\WebApps\\SitioWebCursoAzure\\WebAppCursoAzure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
